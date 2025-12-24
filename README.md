@@ -1,8 +1,8 @@
 ### Hi there! 
 
-- I’m currently working on Data engineering, with SAS programming and Azure DevOps, at Bradesco (Bank) in Brazil.
-- I’m currently learning Pyspark and Cloud Computing.
-- I’m interesting in Machine Learning, Artificial inteligence, Data Science, Data Engineering and Cloud Computing.
+- I’m currently working on Data engineering, with Pyspark programming and Databricks, at Bradesco (Bank) in Brazil.
+- I’m currently learning System Analisys and Development.
+- I’m interesting in Business Intelligence, Artificial inteligence, Data Science, Data Engineering.
 
 ##
 <div style="display: inline_block"><br>
