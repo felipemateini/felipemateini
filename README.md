@@ -32,10 +32,10 @@ Nowadays I’m currently learning System Analisys and Development at Gran Faculd
 ## Versión en Español
 ### ¡Hóla! 
 
-Profesional de Datos con sólida experiencia en Business Intelligence y Analytics, con actuación en Ingeniería de Datos aplicada a entornos analíticos, desarrollando soluciones que transforman datos en decisiones estratégicas. Orientado al aprendizaje continuo, con alta autonomía y enfoque proactivo en la resolución de problemas, cuenta con una trayectoria marcada por una exitosa transición de carrera y protagonismo técnico en proyectos de transformación digital y modernización de entornos complejos.
+Profesional de Datos con sólida experiencia en Business Intelligence y Analytics, con actuación en Automación y Ingeniería de Datos aplicada a entornos analíticos, desarrollando soluciones que transforman datos en decisiones estratégicas. Orientado al aprendizaje continuo, con alta autonomía y enfoque proactivo en la resolución de problemas, cuenta con una trayectoria marcada por una exitosa transición de carrera y protagonismo técnico en proyectos de transformación digital y modernización de entornos complejos.
 
 Ha participado en proyectos de alto impacto en grandes organizaciones como Petrobras y Bradesco, además de consultorías para empresas de e-commerce y retail, siempre enfocado en la generación de valor para el negocio a través de los datos.
 
-Dominio de herramientas y lenguajes como Power BI, Databricks, SQL y Python (PySpark), con experiencia en el desarrollo, migración y soporte de pipelines de datos y dashboards en entornos cloud, así como en plataformas analíticas robustas como SAS y Apache Hive.
+Dominio de herramientas y lenguajes como Power BI, Databricks, N8N, SQL y Python (PySpark), con experiencia en el desarrollo, migración y soporte de pipelines de datos y dashboards en entornos cloud, así como en plataformas analíticas On Premisse robustas como SAS y Apache Hive.
 
 Actualmente estoy cursando el Tecnólogo en Análisis y Desarrollo de Sistemas en la Gran Facultad.
